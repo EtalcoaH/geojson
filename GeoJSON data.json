@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "No Couverture": "204-B"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.148307,
+              49.255
+            ],
+            [
+              -68.145512,
+              49.254779
+            ],
+            [
+              -68.145469,
+              49.25506
+            ],
+            [
+              -68.148253,
+              49.255296
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
